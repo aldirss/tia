@@ -1,0 +1,11 @@
+jupyter 
+numpy 
+pandas 
+matplotlib 
+scikit-learn
+langchain 
+langchain-core 
+langchain-community 
+langchain-ollama 
+langchain-tavily 
+pyyaml
