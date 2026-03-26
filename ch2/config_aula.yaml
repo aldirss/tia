@@ -1,6 +1,6 @@
 api_keys:
-  tavily:  
-  gemini:  
+  tavily: "MINHA_TAVILY_API_KEY"
+  gemini: "MINHA_GEMINI_API_KEY"  
 
 models:
   chat_model: "qwen2.5:7b"
