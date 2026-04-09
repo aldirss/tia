@@ -1,0 +1,4 @@
+
+Capitulo 1
+1.1 LLMs: https://colab.research.google.com/drive/1-Pe5pNuPTjdX-MlWdc9mKXnWLRGkLmIq?usp=sharing
+1.3 LangChain: https://colab.research.google.com/drive/1iVb3ODmb_-B9isAOX4fH_t-nd8UKRfVv#scrollTo=_XsVv8ze-5dE 
