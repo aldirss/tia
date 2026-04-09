@@ -3,7 +3,7 @@ api_keys:
   gemini: "MINHA_GEMINI_API_KEY"  #ai.google.dev/gemini-api
   openai: "OPENAI_API_KEY"  #platform.openai.com
 models:
-  chat_model: "qwen2.5:7b"
+  chat_model: "deepseek-r1:1.5b"
   embedding_model: "nomic-embed-text"
 
 search:
