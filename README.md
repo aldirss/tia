@@ -5,11 +5,9 @@ Perfeito — vou te entregar uma versão **mais profissional, enxuta e com padr�
 ````markdown
 # 🧠 TIA — Tópicos em Inteligência Artificial
 
-Repositório com códigos, notebooks e materiais de apoio da disciplina **Tópicos em Inteligência Artificial**, com foco em aplicações modernas de IA generativa.
+Repositório com códigos, notebooks e materiais de apoio da disciplina **Tópicos em Inteligência Artificial**, 
+com foco em aplicações modernas de IA generativa.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-green)
-![Uso](https://img.shields.io/badge/uso-educacional-orange)
 
 ---
 
@@ -160,9 +158,7 @@ Universidade Estadual do Piauí (UESPI)
 
 Uso educacional.
 
-Caso deseje formalizar, recomenda-se adicionar uma licença:
-
-* MIT License (mais simples e aberta)
+* MIT License
 
 ---
 
