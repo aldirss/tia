@@ -69,7 +69,7 @@ git clone https://github.com/aldirss/tia.git
 cd tia
 ```
 
-Crie um ambiente virtual:
+Crie um ambiente virtual (Siga os passos dos slides de set up):
 
 ### Linux / macOS
 
